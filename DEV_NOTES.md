@@ -27,3 +27,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-22
 - Cross-checked behaviour against spec
+
+## 2026-04-29
+- Resolved deprecation warnings
+- Verified API endpoint response schema
+- Reviewed codebase, identified areas for improvement
