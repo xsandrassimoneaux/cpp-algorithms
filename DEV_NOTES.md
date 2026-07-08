@@ -39,3 +39,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-07-08
 - Added .editorconfig for consistent formatting
+
+## 2026-07-08
+- Resolved deprecation warnings
+- Tidied up project structure
