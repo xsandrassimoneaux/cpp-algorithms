@@ -36,3 +36,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-13
 - Refactored module structure for clarity
 - Reviewed open issues, added labels
+
+## 2026-07-08
+- Added .editorconfig for consistent formatting
