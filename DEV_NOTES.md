@@ -43,3 +43,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-07-08
 - Resolved deprecation warnings
 - Tidied up project structure
+
+## 2026-07-29
+- Reviewed security headers configuration
+- Updated CI cache strategy
