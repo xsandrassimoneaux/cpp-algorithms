@@ -47,3 +47,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-07-29
 - Reviewed security headers configuration
 - Updated CI cache strategy
+
+## 2026-08-26
+- Updated .gitignore to exclude build artifacts
+- Resolved TODO items from previous session
