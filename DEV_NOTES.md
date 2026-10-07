@@ -58,3 +58,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-10-07
 - Added healthcheck endpoint stub
 - Added .editorconfig for consistent formatting
+
+## 2026-10-07
+- Checked for memory leaks in long-running path
+- Refactored module structure for clarity
