@@ -73,3 +73,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-10-28
 - Fixed off-by-one error in loop
 - Cleaned up old debug logs
+
+## 2026-11-04
+- Noted known limitation in docs
