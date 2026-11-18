@@ -80,3 +80,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-11-04
 - Bumped patch version
 - Tidied up project structure
+
+## 2026-11-18
+- Investigated performance bottleneck, noted findings
