@@ -87,3 +87,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-11-18
 - Refactored module structure for clarity
 - Reorganised test fixtures
+
+## 2026-11-18
+- Added .editorconfig for consistent formatting
+- Fixed minor edge case in input handling
+- Refactored module structure for clarity
