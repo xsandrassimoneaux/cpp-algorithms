@@ -83,3 +83,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-11-18
 - Investigated performance bottleneck, noted findings
+
+## 2026-11-18
+- Refactored module structure for clarity
+- Reorganised test fixtures
